@@ -1,0 +1,12 @@
+.one, #two {
+    font-size: 40px;
+}
+
+.one {
+    background-color: black;
+    color: white;
+}
+
+#two {
+    background-color: yellow;
+}

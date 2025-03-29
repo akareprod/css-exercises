@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+/* avatar, original, proportioned, distorted */
+
+.avatar {
+    display: inline;
+    height: 300px;
+    width: 300px;
+}
+.distorted {
+    width: 200px;
+    height: 400px;
+}
+
+.original {
+    width: 300px;
+    height: 300px;
+}
